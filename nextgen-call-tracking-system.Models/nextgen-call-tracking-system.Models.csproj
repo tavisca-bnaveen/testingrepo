@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>nextgen_call_tracking_system.Models</RootNamespace>
+  </PropertyGroup>
+
+</Project>
